@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 
         // update
 
-        // render
+        // render  
         SDL_Color background;
         background.a = SDL_ALPHA_OPAQUE;
         background.r = 0xff;
